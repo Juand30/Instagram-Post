@@ -1,0 +1,78 @@
+.logo{
+    width: 15px;
+    padding: 9px;
+    font-size: 34px;
+      
+  }
+  .htmlp{
+      
+      font-weight: bold;
+      width: 50px;
+      height: min-content;
+  }
+  .name{
+     width: 528px;
+     height: min-content;
+     padding: 7px;
+    
+  
+  }
+  .puntos{
+      float: right;
+      padding: 12px;
+      font-size: 20px;
+  }
+  .post {
+     
+      background: white;
+      height: 50px;
+      width: 600px;
+      margin: auto;
+      font-family: Arial, Helvetica, sans-serif;
+      display: flex;
+      justify-content: flex-start;
+  }
+  .header{
+      margin-block: auto;
+      justify-content: space-between;
+      padding: 0px 15px;
+      align-items: center;
+  }
+  
+  .img{
+      
+      margin: auto;
+      margin: 0;
+      width: 600px;
+      box-sizing: border-box;
+      
+  }
+  .header{
+      background-color: white;
+  }
+  .header p{
+      width: 600;
+      margin: 0px;
+      
+  }
+  .article {
+     
+      width: 600px;
+      margin: auto;
+      background-color: white;
+  }
+  .body{
+      background-color: rgb(41, 38, 38);
+      padding: 100px;
+  }
+  .save{
+      width: 505px;
+  
+  }
+  .fotter{
+      padding: 12px;
+      font-size: larger;
+  }
+  .words{
+      font-weight: bold;
+  }
